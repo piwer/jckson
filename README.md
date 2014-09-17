@@ -3,7 +3,7 @@ jckson
 
 A new, smart language
 
- 8 + 8 = 18
+ 8 + 8 = 18zł
 
  2 + 2 = 22
 
