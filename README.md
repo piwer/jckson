@@ -17,4 +17,4 @@ A new, smart language
 
 jckson is self compiling programming language that self compiles!
 
-This implies, that every valid jckson programm has a compiler embedded.
+This implies, that every valid jckson program has a compiler embedded.
