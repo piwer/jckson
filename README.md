@@ -15,3 +15,4 @@ A new, smart language
 
  Runtime:addEventListener(properties.eventTypePawełListener, trueFunction)
 
+jckson is self compiling programming language
