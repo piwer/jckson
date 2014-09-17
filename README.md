@@ -16,3 +16,5 @@ A new, smart language
  Runtime:addEventListener(properties.eventTypePawełListener, trueFunction)
 
 jckson is self compiling programming language that self compiles!
+
+This implies, that every valid jckson programm has a compiler embedded.
