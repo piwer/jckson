@@ -1,5 +1,9 @@
 jckson
 ======
+**O** nline
+**R** ealtime
+**A** utomatic
+**L** anguage
 
 A new, smart language
 
