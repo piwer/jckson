@@ -5,6 +5,8 @@ jckson
 **A** utomatic
 **L** anguage
 
+Arabic: جاكسون
+
 A new, smart language
 
  8 + 8 = 18zł
